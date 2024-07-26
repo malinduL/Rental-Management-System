@@ -1,0 +1,5 @@
+
+—	java:S116"URename this field "CustomerId" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÉŠß8ŞÖ©ñ2J$36a59347-63d9-4b1b-9a8b-72c507a3024c
+–	java:S116"ORename this field "Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¬­Áøÿÿÿÿ8ä÷Ëï2J$8fd5ed1e-e6d9-4a2e-964d-45e4a9d1565e
+‘	java:S116"ORename this field "City" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÑùÛ8ä÷Ëï2J$0d6870bc-56db-4e46-a1b2-161df6265e78
+”	java:S116"RRename this field "Contact" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š—¢8å÷Ëï2J$30c246ee-31c8-4705-81fa-9e429fa3c9be
